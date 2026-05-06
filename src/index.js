@@ -1,6 +1,6 @@
 const { Client, GatewayIntentBits, Events } = require('discord.js');
 require('dotenv').config();
-
+require('../server');
 const interactionHandler = require('./handlers/interactionHandler');
 
 const client = new Client({
