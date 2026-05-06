@@ -17,4 +17,3 @@ console.log("TOKEN EXISTS:", !!process.env.TOKEN);
 client.login(process.env.TOKEN)
   .then(() => console.log("LOGIN STARTED"))
   .catch(err => console.error("LOGIN ERROR:", err));
-client.login(process.env.TOKEN);
