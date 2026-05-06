@@ -1,0 +1,117 @@
+{
+  "weapon": {
+    "blade": {
+      "Bone Blade": 0,
+      "Fang of Canis": 0,
+      "Ancient Longsword": 0,
+      "Overseer's Hand": 0,
+      "Spinal Tap": 8,
+      "Hunter's Broadsword": 0,
+      "Broken Stag Antler": 0,
+      "Battered Longsword": 0,
+      "Stalker's Blade": 0,
+      "Wrath of Canis": 0,
+      "Overseer's Grasp": 0
+    },
+    "dagger": {
+      "Hunting Knife": 0,
+      "Camping Knife": 1,
+      "Skeletal Dagger": 78,
+      "Bone Splinter": 10,
+      "Barbed Chakram": 0
+    },
+    "polearm": {
+      "Ancient Glaive": 199,
+      "Oppressor": 2
+    },
+    "bow": {
+      "Skeletal Bow": 26,
+      "Spinal Recurve": 2,
+      "GreenFlock Seeker": 0,
+      "Greenflock Bow": 18,
+      "Carrion's Cry": 0,
+      "Huntsman Bow": 0
+    },
+    "mace": {
+      "Blessed Cudgel": 0,
+      "Razorback Mauler": 5,
+      "Ceremonial Crucifix": 0,
+      "Tail of Canis": 3,
+      "Loyalty of Canis": 36,
+      "Stonescale Brutalizer": 0,
+      "Sparkling Lasher": 0
+    },
+    "staff": {
+      "Shepherd Staff": 0,
+      "Walking Stick": 0,
+      "Skeletal Staff": 0,
+      "Pillar of Balance": 0,
+      "Ritual Staff": 0
+    },
+    "instrument": {
+      "Nimble Harp": 0,
+      "Vagabond Harp": 0,
+      "Scavenger's Song": 0,
+      "Bone Harp": 20,
+      "Memoriam": 2
+    },
+    "wand": {
+      "Swine Fury": 50,
+      "Stalker's Claw": 0,
+      "Pearl Wand": 9,
+      "Skeletal Wand": 0,
+      "Temporal Will": 0
+    }
+  },
+  "armor": {
+    "head": {
+      "Hunter's Hat": 1,
+      "Elder's Crown": 3,
+      "Prospector Helmet": 1,
+      "Greenflock Beret": 3,
+      "Wool Ushanka": 0,
+      "Black Wool Ushanka": 0
+    },
+    "shield": {
+      "Pig Skin Shield": 0,
+      "Cutting Board": 0,
+      "Bat Fur Shield": 0,
+      "Rib Cage": 10,
+      "Radiant Protector": 0,
+      "Shiny Scale Shield": 0,
+      "Spiked Scale Shield": 0,
+      "Hardened Scale Shield": 0,
+      "Overseer's Gaze": 99
+    },
+    "necklace": {
+      "Bone Collar": 0,
+      "Ceremonial Beads": 0,
+      "Tooth Necklace": 1008
+    },
+    "ring": {
+      "Promise Ring": 69,
+      "Skeletal Ring": 14
+    }
+  },
+  "tools": {
+    "woodcutting": {
+      "Lumberjack Boots": 0,
+      "Lumberjack Hat": 2,
+      "Lumberjack Pants": 88,
+      "Lumberjack Shirt": 0
+    },
+    "mining": {
+      "Mining Boots": 0,
+      "Mining Helmet": 42,
+      "Mining Pants": 5,
+      "Mining Vest": 0
+    },
+    "fishing": {
+      "Fishing Boots": 0,
+      "Fishing Waders": 2,
+      " Fishing Vest": 0,
+      "Angler's Hat": 0,
+      "Fishing Vest": 21
+    }
+  }
+}
