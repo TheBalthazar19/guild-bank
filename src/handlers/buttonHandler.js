@@ -98,7 +98,7 @@ if (i.customId.startsWith('approve') || i.customId.startsWith('reject')) {
   setTimeout(() => {
 
     if (type === 'approve') {
-      add(cat, sub, item, parseInt(qty));
+      (cat, sub, item, parseInt(qty));
       log?.send(`✅ APPROVED ${item} x${qty} by ${approver}`);
     }
 

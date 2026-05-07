@@ -1,5 +1,5 @@
 const { Client, GatewayIntentBits, Events } = require('discord.js');
-
+const connectDB = require('./database/connect');
 require('dotenv').config();
 require('../server');
 
@@ -24,7 +24,7 @@ client.on('warn', warn => {
 });
 
 client.on(Events.InteractionCreate, interactionHandler);
-
+connectDB();//mongoDB
 (async () => {
   try {
     console.log("⏳ Attempting login...");

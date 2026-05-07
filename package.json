@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node src/index.js"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -15,6 +18,8 @@
     "axios": "^1.15.2",
     "discord.js": "^14.26.3",
     "dotenv": "^17.4.2",
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "mongodb": "^7.2.0",
+    "mongoose": "^9.6.1"
   }
 }
